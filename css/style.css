@@ -1,3 +1,10 @@
+body{
+  background:rgb(139, 131, 250);
+  padding: -1px;
+  margin: -1px;
+  overflow-x: hidden;
+
+}
 .navbar {
    
     background-color: #555;
@@ -9,16 +16,34 @@
 
   .navbar a {
     float: left;
-    text-align: center;
+   
     padding: 12px;
     color: white;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 25px;
+    font-family: serif;
 
   }
   .navbar a:hover {
     background-color:pink;
+    padding: 0;
+    margin: 0;
   }
-  .navbar{
-     width: 100%;
-  }
+img{
+  width: 20%;
+  height: 20%;
+  margin-left: 10%;
+  margin-top: 2%;
+  border-radius: 50%;
+  
+}
+.box {
+  background:gray;
+  height: -1px;
+  padding: 35px;
+  margin: 20px;
+  
+}
+ h1{
+   size: 15px;
+ }
