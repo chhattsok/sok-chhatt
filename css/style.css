@@ -17,14 +17,12 @@ body{
   
 
   .navbar a {
-    float: left;
-   
-    padding: 12px;
-    color: black;
+    padding: center;
     text-decoration: none;
     font-size: 25px;
     font-family: serif;
     margin-left: 5%;
+
   
   
 
