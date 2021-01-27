@@ -1,3 +1,26 @@
-body{
+.contain{
+    margin-left: 10%;
+
+    margin-top: 5%;
+
     
+}
+.box-right{
+    margin-left: 10%;
+    width: 50px;
+}
+body{
+    background: rgba(209, 208, 208, 0.308);
+}
+.containn{
+margin-left: 10%;
+background: rgba(55, 56, 56, 0.466);
+margin-right: 61.5%;
+}
+h1{
+margin-left: 30%;
+
+}
+.textt{
+    background-color: black;
 }
