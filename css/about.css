@@ -42,3 +42,28 @@ body{
       margin-left: 2%;
       font-family: serif;
   }
+  .download{
+        background-color: rgb(255, 139, 30);
+        border: none;
+        color: rgb(15, 231, 51);
+        padding: 18px 20px;
+        cursor: pointer;
+        font-size: 20px;
+        margin-left: 15%;
+        margin-right: 76%;
+        margin-top: 15%;
+        
+      
+      
+      
+   }
+   .download:hover{
+        background-color: rgb(15, 19, 224);
+   }
+   img{
+    width:45%;
+    height: 45%;
+    margin-left: 50%;
+    margin-top: -100%;
+    
+    
