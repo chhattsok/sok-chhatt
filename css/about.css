@@ -31,7 +31,7 @@ body{
     background: #0a111134;
     text-align: center;
     font-size: 20px;
-    margin-top:20px;
+    margin-top:30px;
   }
   .leter{
       margin-top: -500px;
@@ -46,6 +46,9 @@ body{
     width:45%;
     height: 45%;
     margin-left: 50%;
-    margin-top: -23%;
+    margin-top: -900px;
    }
+   p{
+    color: rgb(31, 30, 30);
+  }
     

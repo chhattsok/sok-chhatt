@@ -1,31 +1,53 @@
 body{
     background: rgba(20, 16, 16, 0.363);
 }
-.text1{
-    background: rgb(238, 70, 70);
-    height: 60px;
-    margin:0px;
-    padding: 0px;
 
-}
+.nav {
+    background-color:pink; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+ 
+  }
+  
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+  a {
+      size: 50x;
+      font-family: sans-serif;
+      color: black;
+
+  }
+  a:hover {
+    background-color: blueviolet;
+    padding: 10px;
+    
+  }
 .text2{
     background: rgba(68, 66, 66, 0.295);
     height: 60px;
-    margin-left: 50%;
+    margin-left: 40%;
+    margin-right: 10%;
     margin-top: 1%;
 }
 .text3{
     background: rgba(245, 240, 240, 0.829);
     height: 60px;
-    margin-left: 50%;
+    margin-left: 40%;
+    margin-right: 10%;
     margin-top: 3%;
 }
 .text4{
     background: rgba(245, 240, 240, 0.829);
-    height: 360px;
+    height: 250px;
     width: 750px;
-    margin-left: 50%;
-    margin-top: 4%;
+    margin-left: 40%;
+    margin-right: 10%;
+    margin-top: 0%;
 }
 .text5{
     background: rgba(245, 240, 240, 0.829);
@@ -45,18 +67,39 @@ body{
 button{
     background: blue;
     margin-top: 11%;
-    margin-left: 8%;
-    height: 30px;
+    margin-left: 6%;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
 
 }
 a{
-    color: black;
+    color:white;
 }
 
 .img img{
     width:300px;
     height: 200px ;
-    margin-left: 1%;
+    margin-left: 4%;
     margin-top:-160px;    
    }
+   
+   h1{
+       margin-left: 4.5%;
+   }
+   .text2 h1{
+       margin-left: 30%;
+   }
+   .text3 h2{
+       margin-left: 20%;
+   }
+    .text4 h3{
+        margin-left: 2%;
+    
+    }
+   .text6 h2{
+        margin-left: 25%;
+        margin-top: 3%;
+        color: white;
+    }
     
