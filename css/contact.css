@@ -1,4 +1,4 @@
-.contain{
+/* .contain{
     margin-left: 10%;
 
     margin-top: 5%;
@@ -23,4 +23,15 @@ margin-left: 30%;
 }
 .textt{
     background-color: black;
-}
+} */
+
+input[type=submit]{
+    border: none;
+    background: blue;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 5px;
+    width: 200px;
+    padding: 6px;
+    margin-left: 35%;
+    }

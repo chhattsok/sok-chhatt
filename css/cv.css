@@ -42,3 +42,21 @@ body{
 
     
 }
+button{
+    background: blue;
+    margin-top: 11%;
+    margin-left: 8%;
+    height: 30px;
+
+}
+a{
+    color: black;
+}
+
+.img img{
+    width:300px;
+    height: 200px ;
+    margin-left: 1%;
+    margin-top:-160px;    
+   }
+    
