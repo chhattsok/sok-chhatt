@@ -7,6 +7,7 @@ body{
     text-align: center;
     margin: 0;
     padding: 0;
+    
   }
   
   .nav li {
@@ -26,12 +27,25 @@ body{
     
   }
   .latter{
-    width: 100vh;
-    height: 80vh;
+    /* width: 100vh;
+    height: 80vh; */
     background: #0a111134;
-    text-align: center;
+    /* text-align: center;
     font-size: 20px;
-    margin-top:30px;
+    margin-top:30px; */
+    display: flex;
+    justify-content: space-around;
+  }
+  .texts {
+    width: 60%;
+    font-family:italic;
+    
+  }
+  .pic {
+    width: 38%;
+  }
+  .pic img {
+    width: 100%;
   }
   .leter{
       margin-top: -500px;
@@ -42,13 +56,42 @@ body{
       margin-left: 2%;
       font-family: serif;
   }
-   img{
+   /* img{
     width:45%;
     height: 45%;
     margin-left: 50%;
     margin-top: -900px;
-   }
+   } */
    p{
     color: rgb(31, 30, 30);
-  }
-    
+   }
+    @media(max-width:500px){
+      .texts{
+        flex-direction: column;
+        margin-right: 50%;
+        width: 50px;
+        height: 60px;
+        
+      }
+      .pic{
+        flex-direction: column;
+        margin-top: -20%;
+      }
+      .latter,
+      .texts,
+       img{
+        flex-direction: column;
+      }
+      .texts h2{
+       
+        margin-top: 40​%;
+      }
+
+     h2{
+      display: flex;
+      margin-left: 20%;
+    }
+    p{
+      margin-top: 20%;
+      margin-left: 30%;
+    }
