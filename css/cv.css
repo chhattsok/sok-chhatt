@@ -1,5 +1,5 @@
 body{
-    background: rgba(20, 16, 16, 0.363);
+    background:hsla(350, 100%, 88%, 0.459);
 }
 
 .nav {
@@ -50,13 +50,13 @@ body{
     margin-top: 0%;
 }
 .text5{
-    background: rgba(253, 5, 5, 0.63);
+    background: rgba(5, 253, 100, 0.459);
     height: 250px;
     width: 420px;
     margin-top: -23%
 }
 .text6{
-    background: rgb(250, 18, 18);
+    background: #12faad;
     height: 40px;
     width: 200px;
     margin-top: -16%;

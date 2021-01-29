@@ -36,7 +36,7 @@ input[type=submit]{
     margin-left: 35%;
     }
     .nav {
-        background-color: rgb(167, 36, 162);
+        background-color:pink;
         list-style-type: none;
         text-align: center;
         padding:-10px;
