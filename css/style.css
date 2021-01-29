@@ -176,6 +176,23 @@ footer{
         flex-direction: column;
         justify-content: center;
         margin-top: auto;
-        
+
       }  
     }
+    
+      @media (max-width:600px){
+        .row{
+          flex-direction: column;
+          margin-top: 20px;
+          
+         
+
+        }
+        .letter{
+          width: 100%;
+          margin-top: 10px;
+    
+        }
+        
+      }
+    

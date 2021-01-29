@@ -50,13 +50,13 @@ body{
     margin-top: 0%;
 }
 .text5{
-    background: rgba(245, 240, 240, 0.829);
+    background: rgba(253, 5, 5, 0.63);
     height: 250px;
     width: 420px;
     margin-top: -23%
 }
 .text6{
-    background: white;
+    background: rgb(250, 18, 18);
     height: 40px;
     width: 200px;
     margin-top: -16%;
@@ -74,7 +74,7 @@ button{
 
 }
 a{
-    color:white;
+    color:#fcfaff;
 }
 
 .img img{
@@ -104,9 +104,17 @@ h1{
 .text6 h2{
     margin-left: 25%;
     margin-top: 3%;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 @media(max-width:500px){
-        
+    .bigs{
+        flex-direction: column;
+        margin-top: 50%;
+    }
+    .letter{
+        flex-direction: column;
+        width: 50px;
+        margin-top: 30px;
+    }
 }
