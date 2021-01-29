@@ -82,26 +82,31 @@ a{
     height: 200px ;
     margin-left: 4%;
     margin-top:-160px;    
-   }
+}
    
-   h1{
-       margin-left: 4.5%;
+h1{
+    margin-left: 4.5%;
+}
+.text2 h1{
+    margin-left: 30%;
    }
-   .text2 h1{
-       margin-left: 30%;
-   }
-   .text3 h2{
-       margin-left: 20%;
-   }
-    .text4 h3{
-        margin-left: 2%;
+.text3 h2{
+    margin-left: 20%;
+}
+.text4 h3{
+    margin-left: 3%;
+ 
     
-    }
-   .text6 h2{
-        margin-left: 25%;
-        margin-top: 3%;
-        color: white;
-    }
-    @media(max-width:500px){
+}
+.hOne{
+    margin-left: 35%;
+}
+.text6 h2{
+    margin-left: 25%;
+    margin-top: 3%;
+    color: rgb(255, 255, 255);
+}
+
+@media(max-width:500px){
         
-    }
+}

@@ -36,7 +36,7 @@ input[type=submit]{
     margin-left: 35%;
     }
     .nav {
-        background-color: rgb(248, 145, 245);
+        background-color: rgb(167, 36, 162);
         list-style-type: none;
         text-align: center;
         padding:-10px;
@@ -57,4 +57,4 @@ input[type=submit]{
       a:hover {
         background-color: rgb(241, 30, 30);
       
-        
+ 
